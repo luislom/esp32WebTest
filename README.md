@@ -17,14 +17,14 @@ La aplicación web permite encender y apagar tres LEDs (amarillo, azul y verde) 
 
 ### 1. Subir el siguiente código al ESP32
 
-Copia y sube este código a tu ESP32 usando Arduino IDE o PlatformIO. Cambia el nombre y contraseña de la red WiFi según tu configuración.
+Copia y sube este código a tu ESP32 usando Arduino IDE. Cambia el nombre y contraseña de la red WiFi según tu configuración.
 
 ```cpp
 #include <WiFi.h>
 
 // Cambia por tu red WiFi
-const char* ssid = "iPhone de ASUS";
-const char* password = "lozano1213";
+const char* ssid = "WiFi_Name";
+const char* password = "kjs8s6fhja";
 
 // Pines para los 3 LEDs
 const int led1 = 13;
