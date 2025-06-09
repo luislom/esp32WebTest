@@ -118,6 +118,7 @@ void loop() {
 
 ## Créditos
 
-Desarrollado por [Tu Nombre].
+Desarrollado por Luis Lonzano para la asignatura de Microcontroladores.
+Universidad Simón Bolívar. Facultad de Ingeniería.
 
 ---
